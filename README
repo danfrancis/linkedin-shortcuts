@@ -1,0 +1,6 @@
+// @name       LI Shortcuts
+// @namespace  http://danielfrancis.net/
+// @version    0.1
+// @description  Useful keyboard shortcuts for LinkedIn
+// @match      http://www.linkedin.com/*
+// @copyright  6-17-2013, Daniel Francis
