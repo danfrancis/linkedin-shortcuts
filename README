@@ -7,6 +7,7 @@ This is a userscript using TamperMonkey on Google Chrome to bind Keyboard Shortc
 
 ### Keyboard Shortcuts
 |Key | Function |
+| ------------- | ------------- |
 | Alt + \	| Help (Pop-up) |
 | Alt + /	| Main Search Box |
 | Alt + h	| Navigate to Homepage |
