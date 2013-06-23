@@ -6,7 +6,7 @@ This is a userscript using TamperMonkey on Google Chrome to bind Keyboard Shortc
 2. Click to install the [linkedin-shortcuts userscript](http://bit.ly/1346q6d)
 
 ### Keyboard Shortcuts
-| Key | Function |
+|Key | Function |
 | Alt + \	| Help (Pop-up) |
 | Alt + /	| Main Search Box |
 | Alt + h	| Navigate to Homepage |
